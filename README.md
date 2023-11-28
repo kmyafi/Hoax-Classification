@@ -17,9 +17,9 @@
 ## About The Data
 This dataset contained two label values, namely "1" for hoax and "0" for not hoax. The total data in this dataset is 4,701. Each label has a varied amount of data distribution, including 3850 data for hoax and 851 data for not hoax.
 
-| ** Label**        | Hoax |  Not Hoax   |
-| ----------------- | :--: | :---------: |
-| **Total Data**    | 3850 |     851     |
+| **Label**      | Hoax |  Not Hoax   |
+| -------------- | :--: | :---------: |
+| **Total Data** | 3850 |     851     |
 
 ## Algorithm included
 - [x] Text cleaning/preprocessing
