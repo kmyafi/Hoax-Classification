@@ -8,7 +8,7 @@
 > 5. Vesya Padmadewi
 
 ## Set
-- **Dataset:** Hoax dataset obtained from [MAFINDO](https://raw.githubusercontent.com/taudataanalytics/taudata-Academy/master/data/Data-Hoax-Mafindo.csv);
+- **Dataset:** Hoax dataset obtained from [MAFINDO (Masyarakat Anti Fitnah Indonesia)](https://raw.githubusercontent.com/taudataanalytics/taudata-Academy/master/data/Data-Hoax-Mafindo.csv);
 - **Slang:** Modified Kamus Alay based on [Kamus Alay (Colloquial Indonesian Lexicon)](https://github.com/nasalsabila/kamus-alay);
 - **Feature Extraction:** `Bag-of-Words`, `TF-IDF`;
 - **Classifier:** `Naive Bayes`, `SVM`, `Logistic Regression`, `Decision Tree`, `kNN`, `ANN`.
