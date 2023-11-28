@@ -27,4 +27,4 @@ This dataset contained two label values, namely "1" for hoax and "0" for not hoa
 - [x] Feature extraction: *BoW*, *TF-IDF*
 - [x] Classification: *Naive Bayes*, *SVM*, *Logistic Regression*, *Decision Tree*, *kNN*, *ANN*
 - [x] Cross-Validation: *Grid Search*, *Random Search*
-- [x] Post analysis
+- [x] Post analysis: *topicwizard*, *Voyant Tools*, *WordCloud*
